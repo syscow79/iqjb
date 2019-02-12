@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application version="7" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd">
+  <display-name>/home/oracle/git/projectmanagement/pm-server/pm-server-ear</display-name>
+  <module>
+    <web>
+      <web-uri>/pm-server-web-1.0-SNAPSHOT.war</web-uri>
+      <context-root>/pm-server-web</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>pm-server-ejb-1.0-SNAPSHOT.jar</ejb>
+  </module>
+</application>

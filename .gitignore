@@ -1,0 +1,7 @@
+/pm-intf/target/
+/pm-cli/target/
+/pm-server/pm-server-ejb/target/
+/pm-server/pm-server-web/target/
+/pm-server/pm-server-ear/target/
+/pm-logger/pm-logger-ejb/target/
+/pm-logger/pm-logger-ear/target/
